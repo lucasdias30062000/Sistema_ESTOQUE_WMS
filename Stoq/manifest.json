@@ -1,0 +1,14 @@
+{
+  "name": "STOQ4U",
+  "short_name": "STOQ4U",
+  "lang": "pt-BR",
+  "theme_color": "#333333",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#333333",
+  "icons": [{
+    "src": "img/icone.ico",
+      "sizes": "128x128",
+      "type": "image/ico"
+    }]
+}
