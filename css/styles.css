@@ -1,0 +1,91 @@
+/* CSS */
+body {
+	background: #f1f1f1;
+}
+
+a {
+	text-decoration: none;
+}
+
+.lateral {
+	padding: 1em;
+}
+
+.lateral .logo {
+	padding: 1em;
+}
+
+.lateral .logo img {
+	width: 98%;
+}
+
+.lateral .menu {
+	padding: 1em;
+}
+
+.lateral .menu a {
+	padding: 1em;
+	font-size: 1.1em;
+}
+
+.principal {
+	margin: 2em 1em;
+	background: #fff;
+	border: 1px solid #ccc;
+	border-radius: .4em;
+}
+
+.principal .titulo {
+	padding: .5em 1em;
+	font-size: 1.4em;
+	font-weight: bold;
+	border-bottom: 1px solid #ccc;
+	text-align: center;
+}
+
+.principal .conteudo {
+	padding: 1em;
+}
+
+footer.footer {
+	text-align: center;
+	padding: 1em;
+	border-top: 1px solid #ccc;
+}
+
+.logo{
+	height: 200px;
+	width: 200px;
+}
+
+.menu {
+  display: flex;
+  background-color: #f0f0f0;
+  height: 50px;
+}
+
+.link {
+  margin: auto;
+}
+
+.link p {
+  margin: 0;
+}
+
+.link a {
+  display: inline-block;
+  height: 100%;
+  padding: 0 20px;
+  line-height: 50px;
+  color: #333;
+  text-decoration: none;
+}
+
+.link a:hover {
+  background-color: #ccc;
+  color: #fff;
+}
+
+
+
+/**********************************************/
