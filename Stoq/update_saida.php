@@ -37,7 +37,7 @@
 			$meuArray2 = $retirar2;
 			sort($meuArray2);
 			$saida2 = $meuArray2[0];
-			echo "$localizacaoexcluir";
+			//echo "$localizacaoexcluir";
 			
 			return $localizacaoexcluir;
 			} else 
