@@ -187,3 +187,7 @@ function getLocalizacoesDisponiveisComDetalhes($conn, $produto_id) {
         </div>
     </div>
 </main>
+
+<?php
+include 'footer.php';
+?>
