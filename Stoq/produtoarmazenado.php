@@ -1,4 +1,5 @@
 <?php
+
 	$titulo = 'STOQ';
 	require_once 'header.php';
 	require_once 'conection.php';
