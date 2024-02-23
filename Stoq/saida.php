@@ -53,3 +53,7 @@ require_once 'conection.php';
 		</div>
 	</div>
 </main>
+
+<?php
+include 'footer.php';
+?>
