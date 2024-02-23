@@ -28,3 +28,7 @@ session_start();
 		</div>
 	</div>
 </main>
+
+<?php
+include 'footer.php';
+?>
