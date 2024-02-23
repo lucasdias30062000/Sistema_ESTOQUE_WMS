@@ -1,4 +1,5 @@
 <?php
+
 require_once 'conection.php';
 
 if (isset($_POST['salvar'])) {
