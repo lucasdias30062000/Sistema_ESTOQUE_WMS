@@ -78,3 +78,7 @@ if ($stmt->execute()){
 	</div>
 </main>
 
+<?php
+include 'footer.php';
+?>
+
