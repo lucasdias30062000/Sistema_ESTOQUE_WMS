@@ -1,10 +1,12 @@
 
-			</div>
+</div>
 		</div>
 	</section>
 
-	<footer class="footer">
-	</footer>
+	<!--<footer class="footer">
+		//<p>STOQ4U &copy; 2022</p>
+		//<a href="https://vestibular.fho.edu.br/cursos/?tag=sistemas-informacao" target="_blank">Sistemas de Infomação</a>
+	</footer>-->
 
 	<!-- JS / Jquery Slim 3.6.0 -->
 	<!-- <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" defer></script> -->
